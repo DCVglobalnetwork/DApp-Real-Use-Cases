@@ -1,0 +1,7 @@
+{
+    "projectName": "MyDapp",
+    "namespace": "MyDapp.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "../"
+}
